@@ -1,0 +1,64 @@
+{
+  "timestamp": "20250828_104453",
+  "city": "Bengaluru,IN",
+  "features": {
+    "temp_c": 26.87,
+    "humidity": 71,
+    "pressure": 1011,
+    "wind_speed": 7.86,
+    "clouds_pct": 97,
+    "rain_1h": 0
+  },
+  "best_thresholds": {
+    "rain_th": 22.044062204069668,
+    "hum_th": 67.1412547100727,
+    "temp_max_th": 38.330065983723934,
+    "wind_th": 0.2599503871224407
+  },
+  "risk": "HIGH",
+  "risk_fraction": 0.75,
+  "raw": {
+    "coord": {
+      "lon": 77.6033,
+      "lat": 12.9762
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 26.87,
+      "feels_like": 28.72,
+      "temp_min": 26.87,
+      "temp_max": 26.87,
+      "pressure": 1011,
+      "humidity": 71,
+      "sea_level": 1011,
+      "grnd_level": 913
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 7.86,
+      "deg": 262,
+      "gust": 11.38
+    },
+    "clouds": {
+      "all": 97
+    },
+    "dt": 1756357240,
+    "sys": {
+      "country": "IN",
+      "sunrise": 1756341515,
+      "sunset": 1756386217
+    },
+    "timezone": 19800,
+    "id": 1277333,
+    "name": "Bengaluru",
+    "cod": 200
+  }
+}

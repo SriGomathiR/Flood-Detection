@@ -1,0 +1,63 @@
+{
+  "timestamp": "20250828_100228",
+  "city": "Chennai,IN",
+  "features": {
+    "temp_c": 30.4,
+    "humidity": 78.0,
+    "pressure": 1005.0,
+    "wind_speed": 4.1,
+    "rain_1h": 2.7,
+    "clouds_pct": 85.0
+  },
+  "best_thresholds": {
+    "rain_th": 1.1481021942819636,
+    "hum_th": 74.1359589938329,
+    "temp_max_th": 41.22628486966959,
+    "wind_th": 3.477553305176646
+  },
+  "risk": "HIGH",
+  "risk_fraction": 1.0,
+  "raw": {
+    "coord": {
+      "lon": 80.2785,
+      "lat": 13.0878
+    },
+    "weather": [
+      {
+        "id": 501,
+        "main": "Rain",
+        "description": "moderate rain",
+        "icon": "10d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 30.4,
+      "feels_like": 36.0,
+      "temp_min": 30.4,
+      "temp_max": 30.4,
+      "pressure": 1005,
+      "humidity": 78
+    },
+    "visibility": 6000,
+    "wind": {
+      "speed": 4.1,
+      "deg": 210
+    },
+    "rain": {
+      "1h": 2.7
+    },
+    "clouds": {
+      "all": 85
+    },
+    "dt": 1692211200,
+    "sys": {
+      "country": "IN",
+      "sunrise": 1692165600,
+      "sunset": 1692210600
+    },
+    "timezone": 19800,
+    "name": "Chennai",
+    "cod": 200
+  }
+}
